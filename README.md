@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cdsouza2701
+- 👋 Hi, I’m Chelsea Dsouza @cdsouza2701
 - 👀 I’m interested in data science/ analytics, Machine Learning and AI
 - 🌱 I’m currently learning data science and getting my bachelor's degree on it.
 - 💞️ I’m looking to collaborate on projects that work on analyzing large datasets to get more expereinced in data analytics.
